@@ -76,6 +76,6 @@ Experimenting with advanced architectures such as ResNet or VGG.
 
 Fine-tuning the model with transfer learning for enhanced accuracy.
 
-Conclusion
+## Conclusion
 
 CNNs are highly effective for medical image classification tasks. In this project, we built and trained a CNN model that successfully recognized patterns in MRI scans. By optimizing the architecture and fine-tuning hyperparameters, we can further improve the model’s accuracy and robustness.
