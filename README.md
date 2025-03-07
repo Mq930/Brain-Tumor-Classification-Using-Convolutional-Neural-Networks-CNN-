@@ -2,7 +2,8 @@
 
 ## Introduction
 
-Convolutional Neural Networks (CNNs) are a specialized deep learning model designed for image-related tasks such as classification, object detection, and segmentation. In this project, we utilized CNNs to classify MRI scans into tumor and non-tumor categories using the Brain Tumor MRI Dataset from Kaggle (source).
+Convolutional Neural Networks (CNNs) are a specialized deep learning model designed for image-related tasks such as classification, object detection, and segmentation. In this project, we utilized CNNs to classify MRI scans into tumor and non-tumor categories using the Brain Tumor MRI Dataset from Kaggle [(Source)](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
+.
 
 ## Why Use CNNs?
 
